@@ -114,17 +114,33 @@ streamlit run app.py
 ## Project Structure
 
 AgriVision-Doc/
-├── app.py                         # Main Streamlit application script
-├── requirements.txt               # Python dependencies for deployment
-├── .gitignore                     # Git exclusion rules
-├── enterprise_plant_model.pth     # Trained ResNet-50 weights (Local requirement)
-└── README.md                      # Project documentation
+
+├── app.py
+
+├── requirements.txt 
+
+├── .gitignore
+
+├── enterprise_plant_model.pth
+
+└── README.md                      
 
 ---
-
 ## Technology Stack
 * Frontend/Deployment: Streamlit
 * Deep Learning Framework: PyTorch
 * Computer Vision: OpenCV
 * Background Removal: Rembg
 * Data Processing: NumPy & Pillow
+
+---
+
+## Author
+
+**Nitin Kumar**
+
+*Machine Learning Student*
+
+
+
+
